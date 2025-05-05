@@ -1,0 +1,7 @@
+requests==2.32.3
+python-dotenv==1.1.0
+openai==1.76.0
+tenacity==9.1.2
+langchain-text-splitters==0.3.8
+datasets==3.5.0
+huggingface-hub==0.30.2
